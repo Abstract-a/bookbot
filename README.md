@@ -1,1 +1,3 @@
 # bookbot
+
+small CLI project
